@@ -1,2 +1,1 @@
-my name is maryam
-i am from kaduna state
+difference between github and git bash
